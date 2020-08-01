@@ -1,0 +1,6 @@
+{
+   "users":[ {"name": "Adél", "age": 35, "email": "ledaa84@gmail.com"},
+    {"name": "Misu", "age": 5, "email": "misu@gmail.com"},
+    {"name": "Misi", "age": 40, "email": "kapinmihaly80@gmail.com"}],
+    "comments": "Csak ez az egy komment van"
+}
