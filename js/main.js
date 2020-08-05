@@ -11,7 +11,7 @@ function getServerData(url){
     );
 }
 
-document.querySelector('#getDataBtn').addEventListener("click", function(){
+document.querySelector("#getDataBtn").addEventListener("click", function(){
 
     getServerData("http://localhost:3000/users").then(
         data => fillDataTable(data, "userTable")
