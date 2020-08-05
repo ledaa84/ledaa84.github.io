@@ -1,7 +1,7 @@
 {
-  "name": "mine",
+  "name": "ledaa84.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Melyik szám a legnagyobb?",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^4.5.0",
@@ -13,7 +13,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledaa84/ledaa84.github.io.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledaa84/ledaa84.github.io/issues"
+  },
+  "homepage": "https://github.com/ledaa84/ledaa84.github.io#readme"
 }
