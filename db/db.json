@@ -1,10 +1,31 @@
 {
-   "users":[ 
-       {"name": "Adél", "age": 35, "email": "ledaa84@gmail.com"},
-       {"name": "Misu", "age": 5, "email": "misu@gmail.com"},
-       {"name": "Misi", "age": 40, "email": "kapinmihaly80@gmail.com"}],
-    "comments":[
-        { "id": 1, "comment": "Csak ez az egy komment van."},
-        {"id": 2, "comment": "meggondoltam magam, mégis csak 2 komment lesz."}
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Adél",
+      "age": 35,
+      "email": "ledaa84@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Misi",
+      "age": 40,
+      "email": "kapinmihaly80@gmail.com"
+    },
+    {
+      "name": "Kapin-Lengyel Adél",
+      "email": "lengyeladel@citromail.hu",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Csak ez az egy komment van."
+    },
+    {
+      "id": 2,
+      "comment": "meggondoltam magam, mégis csak 2 komment lesz."
+    }
+  ]
 }

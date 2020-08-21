@@ -2,9 +2,10 @@
   "name": "ledaa84.github.io",
   "version": "1.0.0",
   "description": "Melyik szám a legnagyobb?",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "bootstrap": "^4.5.1",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "lodash": "^4.17.19"
   },

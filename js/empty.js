@@ -11,6 +11,12 @@ function createAnyElement(name, attributes) {
     }
     return element;
 }
+let datum = DateWrite();
+function DateWrite(){
+    let paragraph = createAnyElement("p", {id: "date", align: "center"});
+    paragraph.innerHTML =`<br> ${Date()}` ;
+    $("body").appendChild(paragraph);
+}
 
 //függvények
 let ShowBtn = showBtn();
