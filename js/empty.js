@@ -14,7 +14,7 @@ function createAnyElement(name, attributes) {
 let datum = DateWrite();
 function DateWrite(){
     let paragraph = createAnyElement("p", {id: "date", align: "center"});
-    paragraph.innerHTML =`<br> ${Date()}` ;
+    paragraph.innerHTML =`<br> ${Date(year, month, day, hours, minutes)}` ;
     $("body").appendChild(paragraph);
 }
 
